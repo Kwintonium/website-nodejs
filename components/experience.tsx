@@ -26,7 +26,9 @@ export function Experience() {
               <div className="flex justify-between items-start mb-2">
                 <div>
                   <h3 className="text-xl font-semibold">Lead Senior Data Scientist</h3>
-                  <p className="text-white/90">Sustainment</p>
+                  <a href="https://www.sustainment.com/" target="_blank" rel="noopener noreferrer" className="hover:underline cursor-pointer">
+                    <p className="text-blue-400 inline hover:text-blue-600 hover:underline transition-colors">Sustainment</p>
+                  </a>
                 </div>
                 <div className="text-right">
                   <p className="text-muted-foreground">Austin, TX (Remote)</p>
@@ -54,7 +56,9 @@ export function Experience() {
               <div className="flex justify-between items-start mb-2">
                 <div>
                   <h3 className="text-xl font-semibold">Data Scientist - Camera Systems</h3>
-                  <p className="text-white/90">Aptiv</p>
+                  <a href="https://www.aptiv.com/" target="_blank" rel="noopener noreferrer" className="hover:underline cursor-pointer">
+                    <p className="text-blue-400 inline hover:text-blue-600 hover:underline transition-colors">Aptiv</p>
+                  </a>
                 </div>
                 <div className="text-right">
                   <p className="text-muted-foreground">Troy, MI (Hybrid)</p>

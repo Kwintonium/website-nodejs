@@ -52,7 +52,7 @@ export function Skills() {
       name: "Python",
       level: 100,
       description: "Expert-level Python development with a focus on AI/ML applications",
-      highlight: "1,000s of hours of development experience in various domains"
+      highlight: "1,000s of hours of development experience in spanning various domains"
     },
     {
       name: "LLMs & VLMs",
@@ -63,26 +63,26 @@ export function Skills() {
     {
       name: "Machine Learning & Deep Learning",
       level: 95,
-      description: "Advanced expertise in implementing neural networks and machine learning algorithms",
-      highlight: "From Logistic Regression to 70B-parameter LLMs!"
+      description: "Advanced expertise in implementing the right AI technology for the job",
+      highlight: "From logistic regression to segmentation to 70B-parameter LLMs!"
     },
     {
       name: "Data Analysis",
       level: 100,
       description: "Mastery in extracting actionable insights from complex datasets to drive informed decision-making",
-      highlight: "If I can't explain it, I don't fully understand the problem."
+      highlight: "If I can't explain it, I don't fully understand the problem"
     },
     {
       name: "Computer Vision",
       level: 85,
-      description: "Proficient in image processing and visual AI systems, with a focus on optimization techniques",
-      highlight: "Developed production-grade intrinsic calibration optimization algorithms"
+      description: "Proficient in image processing, intrinsic calibration, algorithms, and more",
+      highlight: "I am proud to have developed an end-to-end production-grade intrinsic calibration optimization algorithm"
     },
     {
       name: "Cloud Development for AI",
       level: 95,
       description: "Specialized in cloud-based AI infrastructure and scalable deployment solutions (fluent in AWS)",
-      highlight: "Architected deployable AI solutions tailored for engineering and DevOps requirements"
+      highlight: "Architect deployable AI solutions tailored for unique product requirements"
     }
   ]
 
@@ -91,25 +91,25 @@ export function Skills() {
       name: "Agile Management",
       level: 90,
       description: "Skilled in leading cross-functional agile teams and managing projects through iterative development",
-      highlight: "Successfully led multiple product launches with a team of data scientists"
+      highlight: "Leading multiple product launches with a team of data scientists"
     },
     {
       name: "Communication & Storytelling",
       level: 100,
       description: "Exceptional ability to communicate complex technical concepts to both technical and non-technical audiences",
-      highlight: "Regular presenter at technical demos and business meetings"
+      highlight: "Regular presenter of technical demos at business and customer meetings"
     },
     {
       name: "Business Acumen",
-      level: 100,
+      level: 95,
       description: "Strong understanding of business impact, strategy, and aligning data science with organizational goals",
-      highlight: "Led and drove multi-million dollar initiatives that had a direct business impact"
+      highlight: "Experience leading multi-million dollar initiatives that had a direct business impact"
     },
     {
       name: "Team Leadership & Mentorship",
-      level: 90,
+      level: 100,
       description: "Experienced in leading teams, mentoring team members, and fostering a collaborative and high-performance culture",
-      highlight: "Mentored data scientists, helping them develop technical expertise and contribute to high-impact projects."
+      highlight: "Mentoring data scientists, helping them develop technical expertise and contribute to high-impact projects."
     }
   ]
 
