@@ -28,7 +28,7 @@ export function Hero() {
           <div className="space-y-2 pointer-events-auto">
             <h1 className="text-6xl font-bold text-foreground">Quinn Meyer</h1>
             <p className="text-2xl text-muted-foreground">
-              Senior Data Scientist @ <a href="https://www.sustainment.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary/80 transition-colors">Sustainment</a>
+              Lead Senior Data Scientist @ <a href="https://www.sustainment.com/" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-primary/80 transition-colors">Sustainment</a>
             </p>
           </div>
         </BlurFade>
