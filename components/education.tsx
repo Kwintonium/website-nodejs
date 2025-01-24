@@ -11,7 +11,7 @@ export function Education() {
         <div className="space-y-6">
           <div className="border-l-2 border-primary pl-4">
             <h3 className="text-xl font-semibold">Master of Science in Data Science</h3>
-            <p className="text-primary">Western Governor's University</p>
+            <p className="text-primary">Western Governors University</p>
             <p className="text-muted-foreground">2022</p>
           </div>
 

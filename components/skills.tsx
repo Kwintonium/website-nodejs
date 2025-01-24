@@ -51,53 +51,47 @@ export function Skills() {
     {
       name: "Python",
       level: 100,
-      description: "Expert-level Python development with a focus on AI/ML applications",
-      highlight: "1,000s of hours of development experience in spanning various domains"
+      description: "Expert in Python development, building robust AI/ML applications that deliver real-world functionality and drive business value",
+      highlight: "1,000s of hours of development experience in spanning various domains understanding parallel processing, virtual environments, package management, and more"
     },
     {
-      name: "LLMs & VLMs",
+      name: "Gen AI",
       level: 95,
-      description: "Deep expertise in large language models (LLMs) and vision-language models (VLMs)",
-      highlight: "Vast experience fine-tuning open-source or foundational models on real datasets. Proficient in developing LLM pipelines, including Retrieval-Augmented Generation (RAG), embeddings, deployment, and more."
+      description: "Proven expertise in building large language models (LLMs) and vision-language models (VLMs) applications",
+      highlight: "Vast experience fine-tuning open-source or foundational models on real curated datasets. Proficient in developing LLM pipelines, including Retrieval-Augmented Generation (RAG), embeddings, deployment, and more."
     },
     {
       name: "Machine Learning & Deep Learning",
       level: 95,
-      description: "Advanced expertise in implementing the right AI technology for the job",
-      highlight: "From logistic regression to segmentation to 70B-parameter LLMs!"
+      description: "Deep knowledge for choosing the right AI technology for the job",
+      highlight: "Skilled in utilizing a variety of ML/DL libraries and frameworks, with the ability to fine-tune neural networks to solve specific problems"
+    },
+    {
+      name: "AWS Cloud Development",
+      level: 95,
+      description: "Specialized in cloud-based AI infrastructure and architecting scalable deployment solutions",
+      highlight: "Sagemaker Notebooks, SageMaker SDK, Distributed Training, Docker, RESTful APIs, and more"
     },
     {
       name: "Data Analysis",
       level: 100,
       description: "Mastery in extracting actionable insights from complex datasets to drive informed decision-making",
-      highlight: "If I can't explain it, I don't fully understand the problem"
+      highlight: "Focused on delivering clear, actionable insights by thoroughly understanding data and its context"
     },
     {
       name: "Computer Vision",
       level: 85,
       description: "Proficient in image processing, intrinsic calibration, algorithms, and more",
       highlight: "I am proud to have developed an end-to-end production-grade intrinsic calibration optimization algorithm"
-    },
-    {
-      name: "Cloud Development for AI",
-      level: 95,
-      description: "Specialized in cloud-based AI infrastructure and scalable deployment solutions (fluent in AWS)",
-      highlight: "Architect deployable AI solutions tailored for unique product requirements"
     }
   ]
 
   const managementSkills: Skill[] = [
     {
-      name: "Agile Management",
-      level: 90,
-      description: "Skilled in leading cross-functional agile teams and managing projects through iterative development",
-      highlight: "Leading multiple product launches with a team of data scientists"
-    },
-    {
-      name: "Communication & Storytelling",
+      name: "Team Leadership & Mentorship",
       level: 100,
-      description: "Exceptional ability to communicate complex technical concepts to both technical and non-technical audiences",
-      highlight: "Regular presenter of technical demos at business and customer meetings"
+      description: "Experienced in leading teams, mentoring team members, and fostering a collaborative and high-performance culture",
+      highlight: "Mentoring data scientists, helping them develop technical expertise and contribute to high-impact projects."
     },
     {
       name: "Business Acumen",
@@ -106,10 +100,17 @@ export function Skills() {
       highlight: "Experience leading multi-million dollar initiatives that had a direct business impact"
     },
     {
-      name: "Team Leadership & Mentorship",
+      name: "Agile Management",
+      level: 90,
+      description: "Skilled in leading cross-functional agile teams and managing projects through iterative development",
+      highlight: "Leading multiple product launches with a team of data scientists"
+    },
+
+    {
+      name: "Communication & Storytelling",
       level: 100,
-      description: "Experienced in leading teams, mentoring team members, and fostering a collaborative and high-performance culture",
-      highlight: "Mentoring data scientists, helping them develop technical expertise and contribute to high-impact projects."
+      description: "Exceptional ability to communicate complex technical concepts to both technical and non-technical audiences",
+      highlight: "Regular presenter of technical demos at business and customer meetings"
     }
   ]
 
