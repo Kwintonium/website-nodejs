@@ -14,7 +14,7 @@ export function About() {
               I'm the Lead Senior Data Scientist at Sustainment, where I leverage cutting-edge AI to optimize manufacturing supply chains. With a background in both Mechanical Engineering and Data Science, I bring a unique perspective to solving complex technical challenges.
             </p>
             <p className="text-muted-foreground">
-              My expertise spans across AI, computer vision, and machine learning, with a particular focus on implementing state-of-the-art VLMs/LLMs for practical business applications. I lead a team of data scientists in developing innovative solutions that enhance manufacturing efficiency and streamline part procurement processes.
+              My expertise spans across AI, computer vision, and machine learning, with a particular focus on implementing state-of-the-art Large Language Models (VLMS/LLMs) for practical business applications. As a full-stack data scientist, I lead and mentor a team of data scientists in developing end-to-end solutions, from data acquisition and analysis to deploying models in production as scalable APIs. Together, we create innovative solutions that enhance manufacturing efficiency and streamline part procurement processes.
             </p>
           </div>
           <div className="relative aspect-square">

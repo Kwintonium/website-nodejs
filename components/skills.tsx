@@ -51,8 +51,8 @@ export function Skills() {
     {
       name: "Python",
       level: 100,
-      description: "Expert in Python development, building robust AI/ML applications that deliver real-world functionality and drive business value",
-      highlight: "1,000s of hours of development experience in spanning various domains understanding parallel processing, virtual environments, package management, and more"
+      description: "Expert in Python development, building robust end-to-end AI/ML applications that deliver real-world functionality and drive business value",
+      highlight: "1,000s of hours of development experience in spanning various domains understanding parallel processing, virtual environments, API development, package management, and more"
     },
     {
       name: "Gen AI",
@@ -73,9 +73,9 @@ export function Skills() {
       highlight: "Sagemaker Notebooks, SageMaker SDK, Distributed Training, Docker, RESTful APIs, and more"
     },
     {
-      name: "Data Analysis",
+      name: "Data Analytics",
       level: 100,
-      description: "Mastery in extracting actionable insights from complex datasets to drive informed decision-making",
+      description: "Mastery in data preparation and extracting actionable insights from complex datasets to drive informed decision-making",
       highlight: "Focused on delivering clear, actionable insights by thoroughly understanding data and its context"
     },
     {
