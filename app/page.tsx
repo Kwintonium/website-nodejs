@@ -42,14 +42,6 @@ export default function Home() {
           <About />
         </motion.div>
         <motion.div
-          ref={skillsRef}
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          transition={{ duration: 0.5 }}
-        >
-          <Skills />
-        </motion.div>
-        <motion.div
           ref={experienceRef}
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
@@ -64,6 +56,14 @@ export default function Home() {
           transition={{ duration: 0.5 }}
         >
           <Education />
+        </motion.div>
+        <motion.div
+          ref={skillsRef}
+          initial={{ opacity: 0 }}
+          whileInView={{ opacity: 1 }}
+          transition={{ duration: 0.5 }}
+        >
+          <Skills />
         </motion.div>
       </main>
       <Footer />
