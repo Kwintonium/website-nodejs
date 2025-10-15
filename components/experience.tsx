@@ -25,7 +25,7 @@ export function Experience() {
               
               <div className="flex justify-between items-start mb-2">
                 <div>
-                  <h3 className="text-xl font-semibold">Lead Senior Data Scientist</h3>
+                  <h3 className="text-xl font-semibold">Senior Data Scientist</h3>
                   <a href="https://www.sustainment.com/" target="_blank" rel="noopener noreferrer" className="hover:underline cursor-pointer">
                     <p className="text-blue-400 inline hover:text-blue-600 hover:underline transition-colors">Sustainment</p>
                   </a>
@@ -39,7 +39,7 @@ export function Experience() {
                 Sustainment is a software and AI company focused on optimizing manufacturing supply chains through AI-driven solutions, connecting contracting teams with U.S. manufacturing suppliers to enhance throughput, reduce rework, and streamline part procurement.
               </p>
               <p className="text-muted-foreground">
-                As the Lead Senior Data Scientist at Sustainment, I report directly to the VP of Data Science and manage a team of three data scientists to develop AI-driven solutions for part procurement. I am responsible for defining the project scope, ensuring timely deliverables, and driving successful outcomes. Additionally, I lead the fine-tuning, deployment, and ongoing operations of Vision-Language Models (VLMs) and Large Language Models (LLMs), applying advanced AI techniques to address complex challenges. A highlight of my role is delivering technical demos to board members and customers, where I showcase the product's impact and help generate new business opportunities.
+                As a Senior Data Scientist at Sustainment, I am responsible for defining the project scope, ensuring timely deliverables, and driving successful outcomes. Additionally, I lead the fine-tuning, deployment, and ongoing operations of Vision-Language Models (VLMs) and Large Language Models (LLMs), applying advanced AI techniques to address complex challenges. A highlight of my role is delivering technical demos to board members and customers, where I showcase the product's impact and help generate new business opportunities.
               </p>
             </motion.div>
 
